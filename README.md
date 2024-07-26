@@ -11,7 +11,7 @@ This is a simple React application that fetches data from the Pokémon API and d
 
 ## Demo
 
-You can see the app in action [here](https://yourusername.github.io/pokemon-app) (replace with your actual deployed link).
+You can see the app in action [here](https://poke-jade.vercel.app/) 
 
 ## Getting Started
 
