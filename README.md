@@ -27,4 +27,4 @@ You need to have Node.js and npm installed on your machine. You can download the
 
 ```sh
 git clone https://github.com/yourusername/pokemon-app.git
-cd pokemon-app
+
